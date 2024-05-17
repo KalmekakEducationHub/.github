@@ -30,15 +30,15 @@ Inspirándonos en el exitoso modelo educativo finlandés, en Kalmekak Education 
 - *Competencia para el Mundo del Trabajo y el Emprendimiento:* Preparar a los estudiantes para futuros emprendimientos profesionales y fomentar la innovación.
 - *Multialfabetización:* Desarrollar una comprensión amplia en varias disciplinas e integrar el conocimiento para formar conjuntos significativos.
 
-=== Énfasis en el Bienestar Estudiantil y el Desarrollo Holístico
+// === Énfasis en el Bienestar Estudiantil y el Desarrollo Holístico
 
-Priorizamos el bienestar y el desarrollo holístico de nuestros estudiantes. Similar al enfoque finlandés, nuestro modelo educativo incluye:
+// Priorizamos el bienestar y el desarrollo holístico de nuestros estudiantes. Similar al enfoque finlandés, nuestro modelo educativo incluye:
 
-- *Inicio Suave del Año Escolar:* El año escolar comienza con actividades que se centran en la interacción social, la construcción de equipos y la aclimatación.
-- *Jornadas Escolares Cortas:* Las jornadas escolares comienzan entre las 8-9 am y terminan a primeras horas de la tarde, asegurando que los estudiantes tengan tiempo para descansar y realizar actividades extracurriculares.
-- *Énfasis Mínimo en Exámenes Estandarizados:* Enfocarse en la evaluación continua y el desarrollo integral del estudiante en lugar de exámenes de alto riesgo.
-- *Recesos Frecuentes:* Recreos y descansos regulares para mantener un ambiente de aprendizaje positivo y apoyar la función cognitiva.
-- *Inclusión y Equidad:* Asegurar que todos los niños, independientemente de sus necesidades educativas, reciban oportunidades de aprendizaje equitativas.
+// - *Inicio Suave del Año Escolar:* El año escolar comienza con actividades que se centran en la interacción social, la construcción de equipos y la aclimatación.
+// - *Jornadas Escolares Cortas:* Las jornadas escolares comienzan entre las 8-9 am y terminan a primeras horas de la tarde, asegurando que los estudiantes tengan tiempo para descansar y realizar actividades extracurriculares.
+// - *Énfasis Mínimo en Exámenes Estandarizados:* Enfocarse en la evaluación continua y el desarrollo integral del estudiante en lugar de exámenes de alto riesgo.
+// - *Recesos Frecuentes:* Recreos y descansos regulares para mantener un ambiente de aprendizaje positivo y apoyar la función cognitiva.
+// - *Inclusión y Equidad:* Asegurar que todos los niños, independientemente de sus necesidades educativas, reciban oportunidades de aprendizaje equitativas.
 
 === Participación de la Comunidad
 
