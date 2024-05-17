@@ -11,6 +11,7 @@ Imaginamos un futuro donde cada niño en América Latina tenga acceso a una educ
 == Nuestro Enfoque
 
 === Métodos de Aprendizaje Innovadores
+
 Creemos que la educación debe ser dinámica, atractiva y relevante. En Kalmekak Education Hub, utilizamos las últimas tecnologías educativas y estrategias de enseñanza para crear un entorno de aprendizaje interactivo y estimulante. Nuestros métodos incluyen:
 
 - *Aprendizaje Basado en Proyectos:* Fomentamos que los estudiantes se involucren en problemas y proyectos del mundo real para desarrollar habilidades y conocimientos prácticos.
@@ -18,6 +19,7 @@ Creemos que la educación debe ser dinámica, atractiva y relevante. En Kalmekak
 - *Aprendizaje Colaborativo:* Promovemos el trabajo en equipo y la comunicación a través de actividades grupales y el aprendizaje entre pares.
 
 === Alfabetización Multidisciplinaria
+
 Inspirándonos en el exitoso modelo educativo finlandés, en Kalmekak Education Hub nos enfocamos en desarrollar competencias transversales esenciales. Nuestro currículo está diseñado para fomentar la alfabetización multidisciplinaria, asegurando que los estudiantes desarrollen habilidades y conocimientos en diversas disciplinas. Los aspectos clave incluyen:
 
 - *Pensamiento y Aprender a Aprender:* Desarrollar habilidades de pensamiento crítico y metacognición para promover el aprendizaje a lo largo de la vida.
@@ -29,6 +31,7 @@ Inspirándonos en el exitoso modelo educativo finlandés, en Kalmekak Education 
 - *Multialfabetización:* Desarrollar una comprensión amplia en varias disciplinas e integrar el conocimiento para formar conjuntos significativos.
 
 === Énfasis en el Bienestar Estudiantil y el Desarrollo Holístico
+
 Priorizamos el bienestar y el desarrollo holístico de nuestros estudiantes. Similar al enfoque finlandés, nuestro modelo educativo incluye:
 
 - *Inicio Suave del Año Escolar:* El año escolar comienza con actividades que se centran en la interacción social, la construcción de equipos y la aclimatación.
@@ -38,6 +41,7 @@ Priorizamos el bienestar y el desarrollo holístico de nuestros estudiantes. Sim
 - *Inclusión y Equidad:* Asegurar que todos los niños, independientemente de sus necesidades educativas, reciban oportunidades de aprendizaje equitativas.
 
 === Participación de la Comunidad
+
 En Kalmekak Education Hub, creemos que la educación es un esfuerzo colaborativo que involucra a estudiantes, maestros, padres y la comunidad en general. Nos esforzamos por crear un entorno inclusivo y de apoyo donde cada miembro se sienta valorado y comprometido. Nuestra comunidad escolar se basa en los principios de respeto, empatía y apoyo mutuo.
 
 == Únete a Nosotros
